@@ -1,0 +1,18 @@
+[RSS]
+url: http://path.to/rss
+matches: /example/
+
+[SQLite]
+filepath: ./rssqlite.db
+
+[Email Notifier]
+emailNotifications: on
+smtpUser: 
+smtpPassword:
+smtpServer:
+smtpPort:
+smtpTLS:
+notifyEmail:
+
+[Stdout Notifier]
+stdoutNotifications: on
